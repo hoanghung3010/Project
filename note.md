@@ -1,0 +1,14 @@
+HEADER
+    SEARCH
+
+CONTENT
+    BANNER
+    CATEGORY
+    POPULAR PRODUCT
+
+    FEEDBACK
+    BRand
+    download app
+
+
+FOOTER
